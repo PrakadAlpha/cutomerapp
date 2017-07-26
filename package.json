@@ -1,0 +1,17 @@
+{
+  "name": "customerapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[Bapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.6",
+    "express": "*",
+    "nodemon": "^1.11.0"
+  },
+  "author": "prakadAlphA",
+  "license": "ISC"
+}
